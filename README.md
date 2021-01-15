@@ -3,7 +3,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Inspiration
-The following Boostrap Theme was used to build the foundations of this website. Check it out:
+The following Bootstrap Theme was used to build the foundations of this website. Check it out:
 1. https://startbootstrap.com/theme/agency
 
 <!-- ROADMAP -->
