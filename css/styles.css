@@ -228,6 +228,21 @@ img {
   font-size: 1.2rem;
 }
 
+.report-text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  font-family: Lato;
+  font-size: 1.3rem;
+}
+
+.report-profile {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  border-radius: 2%;
+}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
